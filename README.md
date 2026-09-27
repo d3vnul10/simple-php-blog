@@ -1,4 +1,4 @@
-# Group 11 — Simple Blog (Posts & Comments)
+# simple-php-blog — Simple Blog (Posts & Comments)
 
 A small PHP + MySQL web app built for a school project. It lets users create blog posts,
 edit and delete their own posts, and leave comments on any post.
