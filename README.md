@@ -39,8 +39,8 @@ edit and delete their own posts, and leave comments on any post.
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/d3vnul10/group_11.git
-cd group_11
+git clone https://github.com/d3vnul10/simple-php-blog.git
+cd simple-php-blog
 ```
 
 ### 2. Set up the database
@@ -73,7 +73,7 @@ Edit `db.php` and set `$host`, `$user`, `$pass`, `$dbname` to match your setup.
 
 1. Copy the project folder into `htdocs` (XAMPP) or `www` (WAMP).
 2. Start Apache and MySQL.
-3. Open <http://localhost/group_11/> in a browser.
+3. Open <http://localhost/simple-php-blog/> in a browser.
 
 **Option B — PHP built-in server (no Apache needed)**
 
